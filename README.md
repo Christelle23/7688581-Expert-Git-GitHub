@@ -26,7 +26,7 @@ A définir
 
 
 
-## Executer les tests
+## Exécution les tests
 
 ```
 A définir : expliquer comment executer les tests

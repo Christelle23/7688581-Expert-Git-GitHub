@@ -26,7 +26,11 @@ A définir
 
 
 
+<<<<<<< HEAD
 ## Exécuter les tests
+=======
+## Exécution les tests
+>>>>>>> 47454733127dd79744db16736bf3e3b634eb12af
 
 ```
 A définir : expliquer comment executer les tests
